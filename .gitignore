@@ -1,5 +1,5 @@
 
-# Created by https://www.gitignore.io/api/python,django
+# Created by https://www.gitignore.io/api/python,django,visualstudiocode
 
 ### Django ###
 *.log
@@ -113,4 +113,12 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-# End of https://www.gitignore.io/api/python,django
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history
+
+# End of https://www.gitignore.io/api/python,django,visualstudiocode

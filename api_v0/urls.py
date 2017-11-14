@@ -2,8 +2,8 @@ from rest_framework.routers import DefaultRouter
 from .views import *
 
 
-router = DefaultRouter()
-router.register(r'articles', ArticleViewSet)
+ROUTER = DefaultRouter()
+ROUTER.register(r'articles', ArticleViewSet)
 
 
-urlpatterns = router.urls
+urlpatterns = ROUTER.urls

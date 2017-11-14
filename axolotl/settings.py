@@ -40,7 +40,6 @@ INSTALLED_APPS = [
     'rest_framework',
     'articles',
     'api_v0',
-    'main',
 ]
 
 MIDDLEWARE = [

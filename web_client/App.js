@@ -1,6 +1,10 @@
-var a = () => {
-    console.log("ku-ku")
-}
+import React from 'react'
+import ReactDOM from 'react-dom'
 
-console.log("Aeee")
-alert("Aeee")
+import { App } from './src/components/App/index'
+
+
+// ReactDOM.render(
+//     <App />,
+//     document.getElementById("app")
+// );

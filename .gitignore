@@ -188,3 +188,7 @@ web_client/env
 
 
 # End of https://www.gitignore.io/api/node
+
+# Local files
+main/static/
+# End of Local files

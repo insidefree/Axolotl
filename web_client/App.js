@@ -3,3 +3,4 @@ var a = () => {
 }
 
 console.log("Aeee")
+alert("Aeee")

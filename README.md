@@ -4,10 +4,10 @@ AXOLOTL
 
 # Have to know about structure
 
-main/static incluse two *.js files
+main/static include two *.js files
 * react-dom.development.js
 * react.development.js
-they are have to be exsist at templates/main/index.html it's requirements of TypeScript VS React
+they are have to be exsist at templates/main/index.html it's requirements of TypeScript/React
 
 ## Getting Started
 

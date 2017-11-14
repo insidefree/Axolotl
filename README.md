@@ -8,7 +8,7 @@ main/static include two *.js files
 * react-dom.development.js
 * react.development.js
 they are have to be exsist at templates/main/index.html it's requirements of TypeScript/React
-
+check it https://www.typescriptlang.org/docs/handbook/react-&-webpack.html
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.

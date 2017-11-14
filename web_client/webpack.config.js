@@ -2,7 +2,7 @@
 __dirname = __dirname.split("\\").slice(0, -1).join("\\")
 
 module.exports = {
-    entry: "./App.js",
+    entry: "./src/index.tsx",
     output: {
         filename: "bundle.js",
         path: __dirname + "/main/static/"
